@@ -39,5 +39,6 @@ Written for data.table arguments.
 \examples{
 my.jackknife_iv()
 }
+\keyword{iv}
+\keyword{jackknife}
 \keyword{linear}
-\keyword{ols}

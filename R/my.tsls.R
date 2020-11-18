@@ -10,7 +10,7 @@
 #' @param intercept Logical, if including 1 as model intercept
 #' @param varcov Method for variance-covariance estimation
 #' @param tolerance Tolerance level for matrix inversion
-#' @keywords ols linear
+#' @keywords tsls linear
 #' @export
 #' @examples
 #' my.tsls()

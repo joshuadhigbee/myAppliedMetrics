@@ -11,7 +11,7 @@
 #' @param data Of type data.table
 #' @param K Degree of polynomial for first stage Xvar1
 #' @param tolerance Tolerance level for matrix inversion
-#' @keywords ols linear
+#' @keywords treatment response
 #' @export
 #' @examples
 #' my.larf()

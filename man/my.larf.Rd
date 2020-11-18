@@ -32,5 +32,5 @@ Written for data.table arguments.
 \examples{
 my.larf()
 }
-\keyword{linear}
-\keyword{ols}
+\keyword{response}
+\keyword{treatment}
