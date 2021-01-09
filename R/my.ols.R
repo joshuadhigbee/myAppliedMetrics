@@ -16,6 +16,7 @@
 my.ols <- function(Yvar, Xvars, data, intercept=TRUE,
                    varcov="het", tolerance=1e-16) {
   # Select data and add intercept
+  data <- data.table::as.data.table(data)
   Y <- data[,..Yvar]
   X <- data[,..Xvars] # Must be char vector
   if (intercept) {
